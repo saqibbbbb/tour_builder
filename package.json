@@ -1,5 +1,6 @@
 {
-  "name": "my-v0-project",
+  "name": "my-react-app",
+  "description": "built by Mohd Saqib",
   "version": "0.1.0",
   "private": true,
   "scripts": {
